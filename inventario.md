@@ -6,4 +6,6 @@ INVENTARIO
 - Processori
 - Schede madri
 
+##PERIFERICHE
+
 Elettrica Padovana
